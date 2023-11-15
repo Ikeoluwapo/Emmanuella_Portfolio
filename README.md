@@ -22,9 +22,14 @@ The Use of Excel for Cleaning, Importation and Modeling of Data
 * PowerPIVOT
 * Pivot Table
 
+![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=True)
+
 # [PowerBI Journey](https://github.com/Ikeoluwapo/PowerBI-Journey)
 This shows my growth journey in PowerBI. How I used it for analyzing, profiling and visualization.
 During this project, I used both the DAX and Power Query Editor. 
+
+![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/Absenteeism%20dashboard.png?raw=True)
+![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/DATING%20APP%20DATA.png?raw=True)
 
 # [Python Journey](https://github.com/Ikeoluwapo/Python-Journey)
 This shows my growth journey in Python, Libraries like Numpy, Pandas, and use of Matplot and Seaborn for visualization.
