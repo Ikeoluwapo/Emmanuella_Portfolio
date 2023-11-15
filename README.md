@@ -50,6 +50,8 @@ Name: iris, employee, data, heights_weights, Social_Network_Ads, nyc_taxi_trip_d
 * Model training, testing and predicting
 * Accuracy_score, confusion_matrix, r2_score, mean_absolute_error, mean_squared_error, coeficient, intercept
 
+![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/python-heatmap.png?raw=True)
+
 # [Project 1:Dating App Dataset](https://github.com/Ikeoluwapo/DatingApp/tree/main)
 mySQL was used for cleaning and exploration of the data while PowerBI was used for visualization of the insights gotten from the data.
 #### Dataset Overview
