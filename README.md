@@ -1,5 +1,10 @@
-## Emmanuella_Portfolio
-Data Science Portfolio
+## Portfolio
+Data Scientist
+
+## Education
+BSc Microbiology
+
+## Projects
 
 # [mySQL Project](https://github.com/Ikeoluwapo/MySQL-Journey-)
 This shows my growth journey in SQL. How I used mySQL for analyzing then excel and flourish for visualization.
