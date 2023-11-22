@@ -80,7 +80,7 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 
 ## [Project 2: Sales Store](https://github.com/Ikeoluwapo/Sales-Store/edit/main/README.md)
 The Use of Excel tool for Data Cleaning, Analyzing and Modeling
-# Questions Answered
+### Questions Answered
 * Sales Trend by Month and Category
 * Monthly Profit Vs Sales
 * Segment Distribution of Category
@@ -91,3 +91,4 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 * Date difference in priority
 * Customer Ordering Trend
 * Shipping mode Sales  
+![Sale Store](https://github.com/Ikeoluwapo/Sales-Store/blob/abbd8e843a19486e1386d4f19ddb699a298f0c60/SALES%20STORE.png?raw=true)
