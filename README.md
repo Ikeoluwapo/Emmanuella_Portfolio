@@ -143,3 +143,14 @@ Size: [357,388 bytes]
 Columns: [Height, Weight, Male] 
 ![Decision Tree Model](https://github.com/Ikeoluwapo/Height-and-Weights/blob/26a234870ff3b07fc9d8d4572d5cd5f0e967b998/DECISION%20TREE.png?raw=True)
 
+## [Project 3: Salary Prediction](https://github.com/Ikeoluwapo/Predicting-Salaries)
+The aim of this project is to create a model to predict the salary a person should get based on his or her years of experience.
+### Dataset Overview
+Name: Salary_Data
+
+Format: CSV (Comma Separated Values)
+
+Size: [454 bytes]
+
+Columns: [YearsExperience, Salary] 
+![mse](https://github.com/Ikeoluwapo/Predicting-Salaries/blob/bd9a4406df35ac66cebd256044c5f82cc489e905/mean%20squared%20error.png?raw=True)
