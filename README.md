@@ -5,18 +5,21 @@ Technical Skills: Python, SQL, PowerBI, Seaborn, Excel, Sklearn, Matplotlib
 BSc Microbiology
 
 ## Projects
-# [mySQL Project](https://github.com/Ikeoluwapo/MySQL-Journey-)
-This shows my growth journey in SQL. How I used mySQL for analyzing then excel and flourish for visualization.
+# [Python Projects]
+## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
+The aim of this project is to collect, clean, process, analyze, visualize and report trends from the Electronic shop data using Python.
 
-The sql-murder-mystery project was my first major work. I used the **SQL Online IDE** for the murder project. I got to use the various joins- left join, right join, outer join, union and union all. This project was used to track the killer in a murder case based on the information and descriptions giving by eye-witnesses. 
-#### Skills Demonstrated
-* Aggregate functions — SUM, COUNT, SUM, AVERAGE
-* Case When Statements
-* Data problem solving techniques
-* DDL and DML
-* DAX
-* Power Query Editor
-* Data Visualization with Power BI
+## Dataset Overview
+Name: Electronics
+
+Format: CSV (Comma Separated Values). Gotten via link
+
+Columns: [item_id,	user_id,	rating,	timestamp,	model_attr,	category,	brand	year,	user_attr	split]
+
+Size: [83,237,424 bytes]
+This shows my growth journey in SQL. How I used mySQL for analyzing then excel
+
+![Electronics count plot](https://github.com/Ikeoluwapo/Electronics/blob/96a17deb4fe818e6fa53039ce794170f11d1da52/countplot.png?raw=True)
 
 # [Excel-Journey](https://github.com/Ikeoluwapo/Excel-Journey-)
 The Use of Excel for Cleaning, Importation and Modeling of Data
