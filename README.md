@@ -66,3 +66,13 @@ Size: [114688 bytes]
 Columns: [User ID, Age, Gender, Educational Level, Frequency of Usage, Swipping history, Occupation, Children, Interests, Aim, Heights]
 
 ![SQL and PowerBI](https://github.com/Ikeoluwapo/DatingApp/blob/1765c4e31cb1516a7dfefb3d13d93edde4f61cb8/DATING%20APP%20DATA.png?raw=True)
+
+# [Excel Projects]
+## [Project 1: Chocolate Bar Rating](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating)
+### Skills Demonstrated
+* Functions(LEFT, RIGHT etc.)
+* IF, IF AND, OR, IF OR
+* PowerPIVOT
+* Pivot Table
+
+![Chocolate Bar](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating/blob/4fbfc99cd2d4b707d34046e19c1cbc3d7d33a465/CHOCOLATE%20BAR.png?raw=True)
