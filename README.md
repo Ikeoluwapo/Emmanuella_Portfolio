@@ -9,7 +9,7 @@ BSc Microbiology
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
 The aim of this project is to collect, clean, process, analyze, visualize and report trends from the Electronic shop data using Python.
 
-## Dataset Overview
+### Dataset Overview
 Name: Electronics
 
 Format: CSV (Comma Separated Values). Gotten via link
