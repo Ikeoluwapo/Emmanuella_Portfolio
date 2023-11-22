@@ -35,7 +35,8 @@ Columns: [iso_code,	continent	location,	date,	total_cases,	new_cases,	new_cases_
 
 ![Covid florish](https://github.com/Ikeoluwapo/Covid-19/blob/0fb2891711581461d51a8c2079ea95bcac82858e/covid.png?raw=True)
 
-# [PowerBI Journey](https://github.com/Ikeoluwapo/PowerBI-Journey)
+# [PowerBI Projects]
+## [Absenteeism at work](https://github.com/Ikeoluwapo/Absenteeism_at_work)
 This shows my growth journey in PowerBI. How I used it for analyzing, profiling and visualization.
 During this project, I used both the DAX and Power Query Editor. 
 
