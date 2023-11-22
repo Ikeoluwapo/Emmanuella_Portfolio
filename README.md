@@ -78,7 +78,7 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 
 ![Chocolate Bar](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating/blob/4fbfc99cd2d4b707d34046e19c1cbc3d7d33a465/CHOCOLATE%20BAR.png?raw=True)
 
-## [Project 2: Sales Store](https://github.com/Ikeoluwapo/Sales-Store/edit/main/README.md)
+## [Project 2: Sales Store](https://github.com/Ikeoluwapo/Sales-Store/tree/main)
 The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 ### Questions Answered
 * Sales Trend by Month and Category
@@ -92,3 +92,14 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 * Customer Ordering Trend
 * Shipping mode Sales  
 ![Sale Store](https://github.com/Ikeoluwapo/Sales-Store/blob/abbd8e843a19486e1386d4f19ddb699a298f0c60/SALES%20STORE.png?raw=true)
+
+## [Project 3: Sales Data](https://github.com/Ikeoluwapo/Sales-Data)
+The Use of Excel tool for Data Cleaning, Analyzing and Modeling 
+### Problems Addressed
+* Year with the highest sales
+* Sales Per Type and Salesperson
+* Salesperson with the highest number of sales
+* Type with highest quantity units
+* Trend of Orders 
+* Sales per Region
+![Sales for Past Three Years](https://github.com/Ikeoluwapo/Sales-Data/blob/6d169405dc361e878c29b5d9bf775a2ee5a0b205/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=true)
