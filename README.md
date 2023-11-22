@@ -154,3 +154,17 @@ Size: [454 bytes]
 
 Columns: [YearsExperience, Salary] 
 ![mse](https://github.com/Ikeoluwapo/Predicting-Salaries/blob/bd9a4406df35ac66cebd256044c5f82cc489e905/mean%20squared%20error.png?raw=True)
+
+## [Project 4: Gene Expression](https://github.com/Ikeoluwapo/Gene-Expression)
+The aim of this project is to create a model that predicts if certain genes are cancerous or not.
+### Dataset Overview
+Name: gene_expression
+
+Format: CSV (Comma Separated Values)
+
+Size: [33,036 bytes]
+
+Independent Columns: [Gene One, Gene Two]
+
+Dependent Columns: [Cancer Present] 
+![Merging test and train data](https://github.com/Ikeoluwapo/Gene-Expression/blob/82a79a4e7ccccd746602474b1c086835330ec14e/merging%20x_test%2C%20y_test.png?raw=True)
