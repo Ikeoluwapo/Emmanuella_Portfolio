@@ -67,6 +67,20 @@ Columns: [User ID, Age, Gender, Educational Level, Frequency of Usage, Swipping 
 
 ![SQL and PowerBI](https://github.com/Ikeoluwapo/DatingApp/blob/1765c4e31cb1516a7dfefb3d13d93edde4f61cb8/DATING%20APP%20DATA.png?raw=True)
 
+## [Project 3: Car Data](https://github.com/Ikeoluwapo/Car-Data/tree/main)
+For this Data, I imported, cleaned and analyzed using mySQL then visualization was done using Excel and Florish.
+
+## Dataset Overview
+Name: Car Data
+
+Format: CSV (Comma Separated Values)
+
+Size: [1,044,007 bytes]
+
+Columns: [Name, Year, selling_price, km_driven, fuel, seller_type, transmission, owner, mileage, engine, torque, max_power, seats]
+![Car Data based on Fuel](https://github.com/Ikeoluwapo/Car-Data/blob/e26c254b83dda765532344efe0d71138de84dab5/Number%20of%20Cars%20by%20Fuel.png?raw=True)
+![Car Data based on Seat](https://github.com/Ikeoluwapo/Car-Data/blob/e26c254b83dda765532344efe0d71138de84dab5/Number%20of%20cars%20by%20car%20seat.png?raw=true)
+
 # [Excel Projects]
 ## [Project 1: Chocolate Bar Rating](https://github.com/Ikeoluwapo/Chocolate-Bar-Rating)
 The Use of Excel tool for Data Cleaning, Analyzing and Modeling 
