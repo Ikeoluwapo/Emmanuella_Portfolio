@@ -1,5 +1,18 @@
 title: Emmanuella Omolade 
 logo: Images/FaceApp_1671026377569.jpg
+
+.img-circle {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+/* Optional: add a border or box shadow for a more stylish look */
+.img-circle img {
+  width: 100%;
+  height: auto;
+  border: 3px solid #fff; /* Change the color as needed */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Optional: Add a box shadow */
+}
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
