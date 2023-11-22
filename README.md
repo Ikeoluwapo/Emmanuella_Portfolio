@@ -54,7 +54,7 @@ For this sql-murder-mystery, I used the SQL Online IDE. This project was used to
 * dml, ddl,
 * Database/Schema creation, Table Altering and Updating
 
-## [Project 2:Dating App Dataset](https://github.com/Ikeoluwapo/DatingApp/tree/main)
+## [Project 2: Dating App Dataset](https://github.com/Ikeoluwapo/DatingApp/tree/main)
 mySQL was used for cleaning and exploration of the data while PowerBI was used for visualization of the insights gotten from the data.
 #### Dataset Overview
 Name: DatingAppDataset
@@ -117,3 +117,29 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 * Trend of Orders 
 * Sales per Region
 ![Sales for Past Three Years](https://github.com/Ikeoluwapo/Sales-Data/blob/6d169405dc361e878c29b5d9bf775a2ee5a0b205/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=true)
+
+# [Machine Learning Projects]
+## [Project 1: Social Network Ads](https://github.com/Ikeoluwapo/SOCIAL-NETWORK-ADS)
+This data was gotten from the details of a social Network ad and was used to create a model used to predict if the age and salary of an individual influences his or her purchase of the product.  
+### Dataset Overview
+Name: Social_Network_Ads
+
+Format: CSV (Comma Separated Values)
+
+Size: [4,903 bytes]
+
+Columns: [Age, EstimatedSalary,Purchased]
+![KNN](https://github.com/Ikeoluwapo/SOCIAL-NETWORK-ADS/blob/551c0d5ccb037b315a320b6b6b76f73af291a009/K-NN.png?raw=True)
+
+## [Project 2: Gender Prediction](https://github.com/Ikeoluwapo/Height-and-Weights/tree/main)
+The aim of this project is to create a model to predict the gender of a person based on the height(in inches) and weight(in pounds).
+### Dataset Overview
+Name: heights_weights
+
+Format: CSV (Comma Separated Values)
+
+Size: [357,388 bytes]
+
+Columns: [Height, Weight, Male] 
+![Decision Tree Model](https://github.com/Ikeoluwapo/Height-and-Weights/blob/26a234870ff3b07fc9d8d4572d5cd5f0e967b998/DECISION%20TREE.png?raw=True)
+
