@@ -46,7 +46,7 @@ Size: [47,530 bytes, 1,286 bytes, 5,824 bytes]
 ![Absenteeism at work](https://github.com/Ikeoluwapo/Absenteeism_at_work/blob/b05d3aeec158483997ee022c73471b2e46585d78/Absenteeism%20dashboard.png?raw=True)
 
 # [mySQL Projects]
-## [Project 1: Murder Mystery](https://github.com/Ikeoluwapo/Python-Journey)
+## [Project 1: Murder Mystery](https://github.com/Ikeoluwapo/Murder-Mystery)
 For this sql-murder-mystery, I used the SQL Online IDE. This project was used to track the killer in a murder case based on the information and descriptions giving by eye-witnesses.
 ### Skills
 * SQL Functions
