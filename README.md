@@ -21,15 +21,19 @@ This shows my growth journey in SQL. How I used mySQL for analyzing then excel
 
 ![Electronics count plot](https://github.com/Ikeoluwapo/Electronics/blob/96a17deb4fe818e6fa53039ce794170f11d1da52/countplot.png?raw=True)
 
-# [Excel-Journey](https://github.com/Ikeoluwapo/Excel-Journey-)
-The Use of Excel for Cleaning, Importation and Modeling of Data
-#### Skills Demonstrated
-* VLOOKUP, HLOOKUP
-* IF, IF AND, OR, IF OR
-* PowerPIVOT
-* Pivot Table
+## [Project 2: Covid-19](https://github.com/Ikeoluwapo/Covid-19)
+The aim of this project was to collect, clean, process, analyze, visualize and report trends from the Covid-19 data using Python.
 
-![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/SALES%20FOR%20THE%20PAST%20THREE%20YEARS.png?raw=True)
+The data used was gotten from the covid 19 site not a csv file.
+
+### Dataset Overview
+Name: covid 19
+
+Format: website link
+
+Columns: [iso_code,	continent	location,	date,	total_cases,	new_cases,	new_cases_smoothed,	total_deaths,	new_deaths,	new_deaths_smoothed,	...	male_smokers,	handwashing_facilities,	excess_mortality_cumulative_absolute,	excess_mortality_cumulative,	excess_mortality,	excess_mortality_cumulative_per_million] 67 columns in total
+
+![Covid florish](https://github.com/Ikeoluwapo/Covid-19/blob/0fb2891711581461d51a8c2079ea95bcac82858e/covid.png?raw=True)
 
 # [PowerBI Journey](https://github.com/Ikeoluwapo/PowerBI-Journey)
 This shows my growth journey in PowerBI. How I used it for analyzing, profiling and visualization.
