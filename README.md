@@ -8,7 +8,6 @@ BSc Microbiology
 # [Python Projects]
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
 The aim of this project is to collect, clean, process, analyze, visualize and report trends from the Electronic shop data using Python.
-
 ### Dataset Overview
 Name: Electronics
 
@@ -25,7 +24,6 @@ This shows my growth journey in SQL. How I used mySQL for analyzing then excel
 The aim of this project was to collect, clean, process, analyze, visualize and report trends from the Covid-19 data using Python.
 
 The data used was gotten from the covid 19 site not a csv file.
-
 ### Dataset Overview
 Name: covid 19
 
@@ -36,35 +34,27 @@ Columns: [iso_code,	continent	location,	date,	total_cases,	new_cases,	new_cases_
 ![Covid florish](https://github.com/Ikeoluwapo/Covid-19/blob/0fb2891711581461d51a8c2079ea95bcac82858e/covid.png?raw=True)
 
 # [PowerBI Projects]
-## [Absenteeism at work](https://github.com/Ikeoluwapo/Absenteeism_at_work)
-This shows my growth journey in PowerBI. How I used it for analyzing, profiling and visualization.
-During this project, I used both the DAX and Power Query Editor. 
+## [Project 1: Absenteeism at work](https://github.com/Ikeoluwapo/Absenteeism_at_work)
+This repository contains datasets used to analyze rate of absenteeism at work, reasons and compensation.
+### Dataset Overview
+Name: Absenteeism_at_work, Reasons, Compensation
 
-![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/Absenteeism%20dashboard.png?raw=True)
-![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/DATING%20APP%20DATA.png?raw=True)
+Format: CSV (Comma Separated Values)
 
-# [Python Journey](https://github.com/Ikeoluwapo/Python-Journey)
-This shows my growth journey in Python, Libraries like Numpy, Pandas, and use of Matplot and Seaborn for visualization.
-#### Skills Demonstrated
-* Aggregate Functions
-* Importation of Libraries
-* Creating od DataFrames and Series
+Size: [47,530 bytes, 1,286 bytes, 5,824 bytes]
 
-# [Machine-Learning-Journey](https://github.com/Ikeoluwapo/Machine-Learning-Journey)
-#### Dataset Overview
-Name: iris, employee, data, heights_weights, Social_Network_Ads, nyc_taxi_trip_duration
-#### Skills Demonstrated
-* Data Exploration (EDA)
-* Feature Analysis
-* Data profiling, Standardization, Normalization, 
-* Data Quality Assessment
-* Models: Linear Regression, Logistics Regression
-* Model training, testing and predicting
-* Accuracy_score, confusion_matrix, r2_score, mean_absolute_error, mean_squared_error, coeficient, intercept
+![Absenteeism at work](https://github.com/Ikeoluwapo/Absenteeism_at_work/blob/b05d3aeec158483997ee022c73471b2e46585d78/Absenteeism%20dashboard.png?raw=True)
 
-![](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/main/Images/python-heatmap.png?raw=True)
+# [mySQL Projects]
+## [Project 1: Murder Mystery](https://github.com/Ikeoluwapo/Python-Journey)
+For this sql-murder-mystery, I used the SQL Online IDE. This project was used to track the killer in a murder case based on the information and descriptions giving by eye-witnesses.
+### Skills
+* SQL Functions
+* Joins- left join, right join, outer join, union and union all.
+* dml, ddl,
+* Database/Schema creation, Table Altering and Updating
 
-# [Project 1:Dating App Dataset](https://github.com/Ikeoluwapo/DatingApp/tree/main)
+## [Project 2:Dating App Dataset](https://github.com/Ikeoluwapo/DatingApp/tree/main)
 mySQL was used for cleaning and exploration of the data while PowerBI was used for visualization of the insights gotten from the data.
 #### Dataset Overview
 Name: DatingAppDataset
@@ -74,3 +64,5 @@ Format: CSV (Comma Separated Values)
 Size: [114688 bytes]
 
 Columns: [User ID, Age, Gender, Educational Level, Frequency of Usage, Swipping history, Occupation, Children, Interests, Aim, Heights]
+
+![SQL and PowerBI](https://github.com/Ikeoluwapo/DatingApp/blob/1765c4e31cb1516a7dfefb3d13d93edde4f61cb8/DATING%20APP%20DATA.png?raw=True)
