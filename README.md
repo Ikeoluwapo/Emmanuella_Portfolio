@@ -5,6 +5,16 @@ Technical Skills: Python, SQL, PowerBI, Seaborn, Excel, Sklearn, Matplotlib
 BSc Microbiology
 
 ## Projects
+# [Models-Machine Learning]
+## [Model 1: Gender Prediction](https://genderpredictcorrect.streamlit.app/)
+Aim: To create a model than can predict the gender of a person from his or her height in cm and weight in lb
+Model used:
+![Electronics count plot](https://github.com/Ikeoluwapo/Electronics/blob/96a17deb4fe818e6fa53039ce794170f11d1da52/countplot.png?raw=True)
+
+## [Model 2: Salary Estimate](https://salaryestimate.streamlit.app/)
+Model used:
+![Electronics count plot](https://github.com/Ikeoluwapo/Electronics/blob/96a17deb4fe818e6fa53039ce794170f11d1da52/countplot.png?raw=True)
+
 # [Python Projects]
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
 The aim of this project is to collect, clean, process, analyze, visualize and report trends from the Electronic shop data using Python.
