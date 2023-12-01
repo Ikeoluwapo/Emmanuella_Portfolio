@@ -7,12 +7,15 @@ BSc Microbiology
 ## Projects
 # [Models-Machine Learning]
 ## [Model 1: Gender Prediction](https://genderpredictcorrect.streamlit.app/)
-Aim: To create a model than can predict the gender of a person from his or her height in cm and weight in lb
+Aim: To create a model than can predict the gender of a person from his or her height in cm and weight in lb.
+
 Model used: Logistic Regression
 
 ![Gender predict female ](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/Height%20and%20Weight%20prediction.png?raw=True)
 
 ## [Model 2: Salary Estimate](https://salaryestimate.streamlit.app/)
+Aim: To estimate the salary of a staff based on his or her years of experience.
+
 Model used: Linear Regression
 
 ![Salary Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/salary%20predict.png?raw=True)
