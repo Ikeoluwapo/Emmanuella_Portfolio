@@ -94,6 +94,7 @@ Size: [1,044,007 bytes]
 
 Columns: [Name, Year, selling_price, km_driven, fuel, seller_type, transmission, owner, mileage, engine, torque, max_power, seats]
 ![Car Data based on Fuel](https://github.com/Ikeoluwapo/Car-Data/blob/e26c254b83dda765532344efe0d71138de84dab5/Number%20of%20Cars%20by%20Fuel.png?raw=True)
+
 ![Car Data based on Seat](https://github.com/Ikeoluwapo/Car-Data/blob/e26c254b83dda765532344efe0d71138de84dab5/Number%20of%20cars%20by%20car%20seat.png?raw=true)
 
 # [Excel Projects]
