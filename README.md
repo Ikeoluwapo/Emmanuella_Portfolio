@@ -8,12 +8,14 @@ BSc Microbiology
 # [Models-Machine Learning]
 ## [Model 1: Gender Prediction](https://genderpredictcorrect.streamlit.app/)
 Aim: To create a model than can predict the gender of a person from his or her height in cm and weight in lb
-Model used:
-![Gender predict female ](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/12b324b6073e8180b82db80532e82b642316c4eb/Screenshot_20231130-192619.png?raw=True)
+Model used: Logistic Regression
+
+![Gender predict female ](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/Height%20and%20Weight%20prediction.png?raw=True)
 
 ## [Model 2: Salary Estimate](https://salaryestimate.streamlit.app/)
-Model used:
-![Electronics count plot](https://github.com/Ikeoluwapo/Electronics/blob/96a17deb4fe818e6fa53039ce794170f11d1da52/countplot.png?raw=True)
+Model used: Linear Regression
+
+![Salary Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/salary%20predict.png?raw=True)
 
 # [Python Projects]
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
