@@ -20,6 +20,12 @@ Model used: Linear Regression
 
 ![Salary Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/salary%20predict.png?raw=True)
 
+## [Model 3: Mall Customers](https://mall-customer-data.streamlit.app/)
+Aim: To group customers into categories based on patterns inorder to know those to target more and those most likely to visit again.
+
+Models used: Unsupervised Learning(KMeans and Hierarchical Clustering)
+[Mall Customers](https://github.com/Ikeoluwapo/Mall-Customer-Data/blob/bb60125fc151d7c2a2ee0bd09792e42ae02da19c/Mall%20Cutomers.png?raw=True)
+
 # [Python Projects]
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
 The aim of this project is to collect, clean, process, analyze, visualize and report trends from the Electronic shop data using Python.
