@@ -24,7 +24,8 @@ Model used: Linear Regression
 Aim: To group customers into categories based on patterns inorder to know those to target more and those most likely to visit again.
 
 Models used: Unsupervised Learning(KMeans and Hierarchical Clustering)
-[Mall Customers](https://github.com/Ikeoluwapo/Mall-Customer-Data/blob/bb60125fc151d7c2a2ee0bd09792e42ae02da19c/Mall%20Cutomers.png?raw=True)
+
+![Mall Customers](https://github.com/Ikeoluwapo/Mall-Customer-Data/blob/bb60125fc151d7c2a2ee0bd09792e42ae02da19c/Mall%20Cutomers.png?raw=True)
 
 # [Python Projects]
 ## [Project 1: Electronics](https://github.com/Ikeoluwapo/Electronics)
