@@ -11,7 +11,7 @@ Aim: To do Exploratory Data Analytics and to create a model which can help in pr
 
 Model used: GradientBoostingRegressor
 
-![Device Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/f40e02496f89bce009117149b0125f9bdcda0c8a/Height%20and%20Weight%20prediction.png?raw=True)
+![Device Prediction](https://github.com/Ikeoluwapo/Emmanuella_Portfolio/blob/527f21786ca22b9e1131f1e54fbec934ba744f96/Device%20Price.png?raw=True)
 
 ## [Model 2: Gender Prediction](https://genderpredictcorrect.streamlit.app/)
 Aim: To create a model than can predict the gender of a person from his or her height in cm and weight in lb.
